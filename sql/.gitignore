@@ -1,0 +1,11 @@
+# Power BI cache/locks
+*.pbip
+*.pbit
+*.pbix.lock
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
